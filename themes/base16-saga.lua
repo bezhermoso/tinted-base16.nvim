@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: SAGA
 -- Scheme Author: https://github.com/SAGAtheme/SAGA
 -- Template Author: Bez Hermoso

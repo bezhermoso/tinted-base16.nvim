@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Vesper
 -- Scheme Author: FormalSnake (https://github.com/formalsnake)
 -- Template Author: Bez Hermoso

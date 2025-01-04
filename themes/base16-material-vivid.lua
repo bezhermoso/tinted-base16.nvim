@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Material Vivid
 -- Scheme Author: joshyrobot
 -- Template Author: Bez Hermoso

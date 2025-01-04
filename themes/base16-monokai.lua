@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Monokai
 -- Scheme Author: Wimer Hazenberg (http://www.monokai.nl)
 -- Template Author: Bez Hermoso

@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Oxocarbon Light
 -- Scheme Author: shaunsingh/IBM
 -- Template Author: Bez Hermoso

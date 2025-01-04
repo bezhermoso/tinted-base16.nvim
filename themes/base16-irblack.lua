@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: IR Black
 -- Scheme Author: Timothée Poisot (http://timotheepoisot.fr)
 -- Template Author: Bez Hermoso

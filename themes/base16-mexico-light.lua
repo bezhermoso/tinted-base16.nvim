@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Mexico Light
 -- Scheme Author: Sheldon Johnson
 -- Template Author: Bez Hermoso

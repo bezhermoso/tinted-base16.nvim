@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Outrun Dark
 -- Scheme Author: Hugo Delahousse (http://github.com/hugodelahousse/)
 -- Template Author: Bez Hermoso

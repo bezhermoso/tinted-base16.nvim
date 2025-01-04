@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Sagelight
 -- Scheme Author: Carter Veldhuizen
 -- Template Author: Bez Hermoso

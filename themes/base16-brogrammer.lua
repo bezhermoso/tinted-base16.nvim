@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Brogrammer
 -- Scheme Author: Vik Ramanujam (http://github.com/piggyslasher)
 -- Template Author: Bez Hermoso

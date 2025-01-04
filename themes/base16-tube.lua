@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: London Tube
 -- Scheme Author: Jan T. Sott
 -- Template Author: Bez Hermoso

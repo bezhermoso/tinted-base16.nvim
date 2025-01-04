@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Evenok Dark
 -- Scheme Author: Mekeor Melire
 -- Template Author: Bez Hermoso

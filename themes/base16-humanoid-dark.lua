@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Humanoid dark
 -- Scheme Author: Thomas (tasmo) Friese
 -- Template Author: Bez Hermoso

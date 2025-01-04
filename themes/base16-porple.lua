@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Porple
 -- Scheme Author: Niek den Breeje (https://github.com/AuditeMarlow)
 -- Template Author: Bez Hermoso

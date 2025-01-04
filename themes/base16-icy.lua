@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Icy Dark
 -- Scheme Author: icyphox (https://icyphox.ga)
 -- Template Author: Bez Hermoso

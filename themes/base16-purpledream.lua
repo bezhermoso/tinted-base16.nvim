@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Purpledream
 -- Scheme Author: malet
 -- Template Author: Bez Hermoso

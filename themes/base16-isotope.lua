@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Isotope
 -- Scheme Author: Jan T. Sott
 -- Template Author: Bez Hermoso

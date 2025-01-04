@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: One Light
 -- Scheme Author: Daniel Pfeifer (http://github.com/purpleKarrot)
 -- Template Author: Bez Hermoso

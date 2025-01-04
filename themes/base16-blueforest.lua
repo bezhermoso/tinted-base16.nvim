@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Blue Forest
 -- Scheme Author: alonsodomin (https://github.com/alonsodomin)
 -- Template Author: Bez Hermoso

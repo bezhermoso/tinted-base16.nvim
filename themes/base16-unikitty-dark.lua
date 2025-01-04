@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Unikitty Dark
 -- Scheme Author: Josh W Lewis (@joshwlewis)
 -- Template Author: Bez Hermoso

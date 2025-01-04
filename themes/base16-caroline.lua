@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: caroline
 -- Scheme Author: ed (https://codeberg.org/ed)
 -- Template Author: Bez Hermoso

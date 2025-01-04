@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Green Screen
 -- Scheme Author: Chris Kempson (http://chriskempson.com)
 -- Template Author: Bez Hermoso

@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Rosé Pine
 -- Scheme Author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 -- Template Author: Bez Hermoso

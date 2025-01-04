@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Marrakesh
 -- Scheme Author: Alexandre Gavioli (http://github.com/Alexx2/)
 -- Template Author: Bez Hermoso

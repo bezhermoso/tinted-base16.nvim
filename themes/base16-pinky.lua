@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: pinky
 -- Scheme Author: Benjamin (https://github.com/b3nj5m1n)
 -- Template Author: Bez Hermoso

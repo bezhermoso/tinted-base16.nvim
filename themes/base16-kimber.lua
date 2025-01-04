@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Kimber
 -- Scheme Author: Mishka Nguyen (https://github.com/akhsiM)
 -- Template Author: Bez Hermoso

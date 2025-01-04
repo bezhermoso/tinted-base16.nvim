@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Eva Dim
 -- Scheme Author: kjakapat (https://github.com/kjakapat)
 -- Template Author: Bez Hermoso

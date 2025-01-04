@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Harmonic16 Dark
 -- Scheme Author: Jannik Siebert (https://github.com/janniks)
 -- Template Author: Bez Hermoso

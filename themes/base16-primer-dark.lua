@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Primer Dark
 -- Scheme Author: Jimmy Lin
 -- Template Author: Bez Hermoso

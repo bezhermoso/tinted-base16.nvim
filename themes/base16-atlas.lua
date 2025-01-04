@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Atlas
 -- Scheme Author: Alex Lende (https://ajlende.com)
 -- Template Author: Bez Hermoso

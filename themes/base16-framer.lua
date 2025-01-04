@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Framer
 -- Scheme Author: Framer (Maintained by Jesse Hoyos)
 -- Template Author: Bez Hermoso

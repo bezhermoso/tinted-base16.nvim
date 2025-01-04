@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Equilibrium Gray Dark
 -- Scheme Author: Carlo Abelli
 -- Template Author: Bez Hermoso

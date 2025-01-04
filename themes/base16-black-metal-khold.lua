@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Black Metal (Khold)
 -- Scheme Author: metalelf0 (https://github.com/metalelf0)
 -- Template Author: Bez Hermoso

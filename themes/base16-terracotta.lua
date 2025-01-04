@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Terracotta
 -- Scheme Author: Alexander Rossell Hayes (https://github.com/rossellhayes)
 -- Template Author: Bez Hermoso

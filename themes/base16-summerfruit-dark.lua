@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Summerfruit Dark
 -- Scheme Author: Christopher Corley (http://christop.club/)
 -- Template Author: Bez Hermoso

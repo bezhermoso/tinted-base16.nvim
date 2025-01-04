@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Tokyo Night Moon
 -- Scheme Author: Ólafur Bjarki Bogason
 -- Template Author: Bez Hermoso

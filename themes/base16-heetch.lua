@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Heetch Dark
 -- Scheme Author: Geoffrey Teale (tealeg@gmail.com)
 -- Template Author: Bez Hermoso

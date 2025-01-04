@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Google Dark
 -- Scheme Author: Seth Wright (http://sethawright.com)
 -- Template Author: Bez Hermoso

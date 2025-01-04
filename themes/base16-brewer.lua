@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Brewer
 -- Scheme Author: Timothée Poisot (http://github.com/tpoisot)
 -- Template Author: Bez Hermoso

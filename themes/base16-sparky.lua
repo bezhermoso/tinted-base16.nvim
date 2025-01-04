@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Sparky
 -- Scheme Author: Leila Sother (https://github.com/mixcoac)
 -- Template Author: Bez Hermoso

@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Zenburn
 -- Scheme Author: elnawe
 -- Template Author: Bez Hermoso

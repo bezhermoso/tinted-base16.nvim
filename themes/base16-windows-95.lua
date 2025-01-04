@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Windows 95
 -- Scheme Author: Fergus Collins (https://github.com/C-Fergus)
 -- Template Author: Bez Hermoso

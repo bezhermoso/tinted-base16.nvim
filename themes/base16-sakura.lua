@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Sakura
 -- Scheme Author: Misterio77 (http://github.com/Misterio77)
 -- Template Author: Bez Hermoso

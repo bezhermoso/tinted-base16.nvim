@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Fruit Soda
 -- Scheme Author: jozip
 -- Template Author: Bez Hermoso

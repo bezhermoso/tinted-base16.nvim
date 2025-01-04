@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: 3024
 -- Scheme Author: Jan T. Sott (http://github.com/idleberg)
 -- Template Author: Bez Hermoso

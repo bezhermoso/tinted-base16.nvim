@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Kanagawa
 -- Scheme Author: Tommaso Laurenzi (https://github.com/rebelot)
 -- Template Author: Bez Hermoso

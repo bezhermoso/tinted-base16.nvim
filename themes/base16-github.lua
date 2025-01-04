@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Github
 -- Scheme Author: Defman21
 -- Template Author: Bez Hermoso

@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Measured Dark
 -- Scheme Author: Measured (https://measured.co)
 -- Template Author: Bez Hermoso

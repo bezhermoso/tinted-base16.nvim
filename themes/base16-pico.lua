@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Pico
 -- Scheme Author: PICO-8 (http://www.lexaloffle.com/pico-8.php)
 -- Template Author: Bez Hermoso

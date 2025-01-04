@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Darktooth
 -- Scheme Author: Jason Milkins (https://github.com/jasonm23)
 -- Template Author: Bez Hermoso

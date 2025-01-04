@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: OceanicNext
 -- Scheme Author: https://github.com/voronianski/oceanic-next-color-scheme
 -- Template Author: Bez Hermoso

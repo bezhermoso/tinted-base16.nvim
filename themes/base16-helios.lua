@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Helios
 -- Scheme Author: Alex Meyer (https://github.com/reyemxela)
 -- Template Author: Bez Hermoso

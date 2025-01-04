@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Material Darker
 -- Scheme Author: Nate Peterson
 -- Template Author: Bez Hermoso

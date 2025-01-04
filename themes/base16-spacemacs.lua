@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Spacemacs
 -- Scheme Author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
 -- Template Author: Bez Hermoso

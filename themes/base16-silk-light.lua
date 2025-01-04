@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Silk Light
 -- Scheme Author: Gabriel Fontes (https://github.com/Misterio77)
 -- Template Author: Bez Hermoso

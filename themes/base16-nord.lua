@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Nord
 -- Scheme Author: arcticicestudio
 -- Template Author: Bez Hermoso

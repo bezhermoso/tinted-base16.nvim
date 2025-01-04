@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Tokyo Night Terminal Dark
 -- Scheme Author: Michaël Ball
 -- Template Author: Bez Hermoso

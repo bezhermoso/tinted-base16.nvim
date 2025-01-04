@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Twilight
 -- Scheme Author: David Hart (https://github.com/hartbit)
 -- Template Author: Bez Hermoso

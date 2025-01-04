@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Everforest
 -- Scheme Author: Sainnhe Park (https://github.com/sainnhe)
 -- Template Author: Bez Hermoso

@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Tango
 -- Scheme Author: @Schnouki, based on the Tango Desktop Project
 -- Template Author: Bez Hermoso

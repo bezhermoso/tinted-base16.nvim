@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Brush Trees
 -- Scheme Author: Abraham White &lt;abelincoln.white@gmail.com&gt;
 -- Template Author: Bez Hermoso

@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Edge Light
 -- Scheme Author: cjayross (https://github.com/cjayross)
 -- Template Author: Bez Hermoso

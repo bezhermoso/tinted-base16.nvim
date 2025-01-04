@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: tender
 -- Scheme Author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
 -- Template Author: Bez Hermoso

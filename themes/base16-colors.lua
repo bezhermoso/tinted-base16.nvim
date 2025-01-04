@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Colors
 -- Scheme Author: mrmrs (http://clrs.cc)
 -- Template Author: Bez Hermoso

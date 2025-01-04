@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Moonlight
 -- Scheme Author: Jeremy Swinarton (https://github.com/jswinarton)
 -- Template Author: Bez Hermoso

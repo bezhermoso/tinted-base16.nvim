@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Classic Dark
 -- Scheme Author: Jason Heeris (http://heeris.id.au)
 -- Template Author: Bez Hermoso

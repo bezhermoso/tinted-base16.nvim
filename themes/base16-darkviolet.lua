@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Dark Violet
 -- Scheme Author: ruler501 (https://github.com/ruler501/base16-darkviolet)
 -- Template Author: Bez Hermoso

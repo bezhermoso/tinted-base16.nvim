@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Sandcastle
 -- Scheme Author: George Essig (https://github.com/gessig)
 -- Template Author: Bez Hermoso

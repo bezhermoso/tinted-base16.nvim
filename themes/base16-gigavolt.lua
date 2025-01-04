@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Gigavolt
 -- Scheme Author: Aidan Swope (http://github.com/Whillikers)
 -- Template Author: Bez Hermoso

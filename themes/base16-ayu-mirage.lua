@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Ayu Mirage
 -- Scheme Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
 -- Template Author: Bez Hermoso

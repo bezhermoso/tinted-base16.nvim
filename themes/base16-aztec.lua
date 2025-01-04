@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Aztec
 -- Scheme Author: TheNeverMan (github.com/TheNeverMan)
 -- Template Author: Bez Hermoso

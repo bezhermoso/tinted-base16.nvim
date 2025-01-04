@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Jabuti
 -- Scheme Author: https://github.com/notusknot
 -- Template Author: Bez Hermoso

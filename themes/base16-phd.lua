@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: PhD
 -- Scheme Author: Hennig Hasemann (http://leetless.de/vim.html)
 -- Template Author: Bez Hermoso

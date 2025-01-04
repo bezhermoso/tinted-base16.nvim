@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Solar Flare
 -- Scheme Author: Chuck Harmston (https://chuck.harmston.ch)
 -- Template Author: Bez Hermoso

@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Decaf
 -- Scheme Author: Alex Mirrington (https://github.com/alexmirrington)
 -- Template Author: Bez Hermoso

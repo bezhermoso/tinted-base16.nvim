@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: iA Light
 -- Scheme Author: iA Inc. (modified by aramisgithub)
 -- Template Author: Bez Hermoso

@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: darkmoss
 -- Scheme Author: Gabriel Avanzi (https://github.com/avanzzzi)
 -- Template Author: Bez Hermoso

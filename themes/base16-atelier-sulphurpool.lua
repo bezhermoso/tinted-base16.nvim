@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Atelier Sulphurpool
 -- Scheme Author: Bram de Haan (http://atelierbramdehaan.nl)
 -- Template Author: Bez Hermoso

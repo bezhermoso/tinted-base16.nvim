@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Gotham
 -- Scheme Author: Andrea Leopardi (arranged by Brett Jones)
 -- Template Author: Bez Hermoso

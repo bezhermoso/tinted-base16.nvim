@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Still Alive
 -- Scheme Author: Derrick McKee (derrick.mckee@gmail.com)
 -- Template Author: Bez Hermoso

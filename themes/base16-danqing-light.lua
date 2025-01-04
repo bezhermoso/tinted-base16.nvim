@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: DanQing Light
 -- Scheme Author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
 -- Template Author: Bez Hermoso

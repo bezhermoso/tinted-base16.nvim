@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: emil
 -- Scheme Author: limelier
 -- Template Author: Bez Hermoso

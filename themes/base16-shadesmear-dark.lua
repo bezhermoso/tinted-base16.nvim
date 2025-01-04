@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: ShadeSmear Dark
 -- Scheme Author: Kyle Giammarco (http://kyle.giammar.co)
 -- Template Author: Bez Hermoso

@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: dirtysea
 -- Scheme Author: Kahlil (Kal) Hodgson
 -- Template Author: Bez Hermoso

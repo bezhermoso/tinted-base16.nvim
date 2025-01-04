@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Darcula
 -- Scheme Author: jetbrains
 -- Template Author: Bez Hermoso

@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Dracula
 -- Scheme Author: Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)
 -- Template Author: Bez Hermoso

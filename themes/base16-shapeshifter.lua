@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Shapeshifter
 -- Scheme Author: Tyler Benziger (http://tybenz.com)
 -- Template Author: Bez Hermoso

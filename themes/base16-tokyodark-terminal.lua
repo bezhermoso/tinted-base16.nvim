@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Tokyodark Terminal
 -- Scheme Author: Tiagovla (https://github.com/tiagovla/)
 -- Template Author: Bez Hermoso

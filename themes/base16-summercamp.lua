@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: summercamp
 -- Scheme Author: zoe firi (zoefiri.github.io)
 -- Template Author: Bez Hermoso

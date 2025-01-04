@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Cupertino
 -- Scheme Author: Defman21
 -- Template Author: Bez Hermoso

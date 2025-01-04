@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: standardized-dark
 -- Scheme Author: ali (https://github.com/ali-githb/base16-standardized-scheme)
 -- Template Author: Bez Hermoso

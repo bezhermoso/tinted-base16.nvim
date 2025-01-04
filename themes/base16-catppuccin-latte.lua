@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Catppuccin Latte
 -- Scheme Author: https://github.com/catppuccin/catppuccin
 -- Template Author: Bez Hermoso

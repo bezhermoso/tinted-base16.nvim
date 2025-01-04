@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Nova
 -- Scheme Author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
 -- Template Author: Bez Hermoso

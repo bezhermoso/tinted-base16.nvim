@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: OneDark Dark
 -- Scheme Author: olimorris (https://github.com/olimorris)
 -- Template Author: Bez Hermoso

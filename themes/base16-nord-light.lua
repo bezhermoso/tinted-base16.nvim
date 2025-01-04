@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Nord Light
 -- Scheme Author: threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)
 -- Template Author: Bez Hermoso

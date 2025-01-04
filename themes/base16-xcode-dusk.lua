@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: XCode Dusk
 -- Scheme Author: Elsa Gonsiorowski (https://github.com/gonsie)
 -- Template Author: Bez Hermoso

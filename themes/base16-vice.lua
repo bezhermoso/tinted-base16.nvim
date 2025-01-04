@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: vice
 -- Scheme Author: Thomas Leon Highbaugh thighbaugh@zoho.com
 -- Template Author: Bez Hermoso

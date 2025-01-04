@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Mellow Purple
 -- Scheme Author: gidsi
 -- Template Author: Bez Hermoso

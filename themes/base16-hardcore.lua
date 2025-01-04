@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Hardcore
 -- Scheme Author: Chris Caller
 -- Template Author: Bez Hermoso

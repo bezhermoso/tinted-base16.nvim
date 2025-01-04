@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Mountain
 -- Scheme Author: gnsfujiwara (https://github.com/gnsfujiwara)
 -- Template Author: Bez Hermoso

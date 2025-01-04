@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Synth Midnight Terminal Light
 -- Scheme Author: Michaël Ball (http://github.com/michael-ball/)
 -- Template Author: Bez Hermoso

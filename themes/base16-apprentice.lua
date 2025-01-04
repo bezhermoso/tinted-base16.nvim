@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Apprentice
 -- Scheme Author: romainl
 -- Template Author: Bez Hermoso

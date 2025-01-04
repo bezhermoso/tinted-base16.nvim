@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: selenized-black
 -- Scheme Author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
 -- Template Author: Bez Hermoso

@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Da One Gray
 -- Scheme Author: NNB (https://github.com/NNBnh)
 -- Template Author: Bez Hermoso

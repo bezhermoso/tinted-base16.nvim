@@ -1,4 +1,5 @@
--- vim: ft=lua Scheme System: base16
+-- vim: ft=lua
+-- Scheme System: base16
 -- Scheme Name: Solarized Light
 -- Scheme Author: Ethan Schoonover (modified by aramisgithub)
 -- Template Author: Bez Hermoso
