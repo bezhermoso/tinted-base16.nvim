@@ -1,7 +1,7 @@
 -- vim: ft=lua
 -- Scheme System: base16
 -- Scheme Name: Windows NT
--- Scheme Author: Fergus Collins (https://github.com/C-Fergus)
+-- Scheme Author: Fergus Collins (https://github.com/ferguscollins)
 -- Template Author: Bez Hermoso
 
 vim.cmd([[hi clear]])
